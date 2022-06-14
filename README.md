@@ -1,4 +1,4 @@
-# bitcoin_ticker_flutter
+Crypto Price
 
 A new Flutter application.
 
