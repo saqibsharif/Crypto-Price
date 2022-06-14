@@ -1,4 +1,4 @@
-Crypto Price
+#Crypto Price
 
 A new Flutter application.
 
