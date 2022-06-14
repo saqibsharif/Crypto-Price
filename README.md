@@ -5,3 +5,5 @@ Crypto Price is a Mobile Application developed in Flutter. The user can select t
 ### Screenshots from App
 
 ![USD](https://user-images.githubusercontent.com/69578674/173623916-d205b81a-4b36-4656-b08e-18e0260c9d4b.png)
+
+![List](https://user-images.githubusercontent.com/69578674/173624368-12bf46c8-f156-4758-90c0-bc0766917a40.png)
