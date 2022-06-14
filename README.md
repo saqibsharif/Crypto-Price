@@ -1,16 +1,3 @@
-#Crypto Price
+## Crypto Price
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Crypto Price is a Mobile Application developed in Flutter. The user can select the currency in which he/she want to show the prices of different crypto currencies. This app uses an API called CoinAPI to get the prices of different crypto currencies. Http flutter package is used to make the API Call and the API responds with a Json file containing the data. The convert package from Dart is used to convert the data from Json file to String.
